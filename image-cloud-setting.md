@@ -58,7 +58,7 @@ npm install picgo -g
     "gitee": {
       "repo": "huihuangshijian/images",
       "branch": "master",
-      "token": "355b7d4e7f14aa8a1e294d436efd13ac",
+      "token": "xxx",
       "path": "markdown_images",
       "customPath": "",
       "customUrl": ""
