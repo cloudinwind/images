@@ -86,14 +86,14 @@ npm install picgo -g
       "repo": "cloudinwind/images",
       "branch": "main",
       "origin": "github",
-      "token": "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",
+      "token": "xxx",
       "path": "markdown_images",
       "customUrl": "https://raw.githubusercontent.com/cloudinwind/images/main/"
     },
     "gitee": {
       "repo": "huihuangshijian/images",
       "branch": "master",
-      "token": "355b7d4e7f14aa8a1e294d436efd13ac",
+      "token": "xxx",
       "path": "markdown_images",
       "customPath": "",
       "customUrl": ""
